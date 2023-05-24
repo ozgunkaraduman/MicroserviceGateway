@@ -1,0 +1,10 @@
+{
+  "name": "migros-gateway-haluk",
+
+  "buildpacks":
+          [
+            {
+              "url": "heroku/gradle"
+            }
+          ]
+}
